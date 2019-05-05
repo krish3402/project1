@@ -1,0 +1,6 @@
+com/krish/java/webservices/MyWebService.class
+com/krish/java/services/MyServiceImpl.class
+com/krish/java/api/MyService.class
+com/krish/java/exceptions/DoThisException.class
+com/krish/java/logging/MyServiceLoggingModule.class
+com/krish/java/jaxrs/DoThisExceptionMapper.class
